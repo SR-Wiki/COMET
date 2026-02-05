@@ -1,0 +1,13 @@
+image filter=lfs diff=lfs merge=lfs -text
+processing/SN2N/example/rawdata/images/Neuron__EPOCH50_BS64_LOSSconsis_1.50_LOSSsparse0.00_/predictions/denoised.tif filter=lfs diff=lfs merge=lfs -text
+Pipeline filter=lfs diff=lfs merge=lfs -text
+for filter=lfs diff=lfs merge=lfs -text
+processing/SN2N/example/rawdata/comet_example.tif filter=lfs diff=lfs merge=lfs -text
+CAD.gif filter=lfs diff=lfs merge=lfs -text
+processing/SN2N/imgs/Deep filter=lfs diff=lfs merge=lfs -text
+Pipeline[[:space:]]for[[:space:]]image[[:space:]]processing/SN2N/example/rawdata/images/Neuron__EPOCH50_BS64_LOSSconsis_1.50_LOSSsparse0.00_/predictions/denoised.tif filter=lfs diff=lfs merge=lfs -text
+Pipeline[[:space:]]for[[:space:]]image[[:space:]]processing/SN2N/imgs/Deep[[:space:]]CAD.gif filter=lfs diff=lfs merge=lfs -text
+Pipeline[[:space:]]for[[:space:]]image[[:space:]]processing/SN2N/example/rawdata/comet_example.tif filter=lfs diff=lfs merge=lfs -text
+Pipeline[[:space:]]for[[:space:]]image[[:space:]]processing/SN2N/example/rawdata/comet_example.tif filter=lfs diff=lfs merge=lfs -text
+Pipeline[[:space:]]for[[:space:]]image[[:space:]]processing/SN2N/imgs/Deep[[:space:]]CAD.gif filter=lfs diff=lfs merge=lfs -text
+Pipeline[[:space:]]for[[:space:]]image[[:space:]]processing/SN2N/example/rawdata/images/Neuron__EPOCH50_BS64_LOSSconsis_1.50_LOSSsparse0.00_/predictions/denoised.tif filter=lfs diff=lfs merge=lfs -text
