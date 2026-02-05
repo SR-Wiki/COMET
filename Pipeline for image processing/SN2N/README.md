@@ -23,9 +23,8 @@
 
 <br>
 
-
 <p>
-<img src='./imgs/DeepCAD.gif' align="left" width=190>
+<img src='./imgs/Deep CAD.gif' align="left" width=190>
 </p>
 <br>
 
